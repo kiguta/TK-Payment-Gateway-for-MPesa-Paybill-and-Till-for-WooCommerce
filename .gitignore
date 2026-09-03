@@ -1,3 +1,4 @@
 .claude/
 dist/
 svn/
+.svn-checkout/
